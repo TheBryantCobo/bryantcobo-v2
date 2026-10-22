@@ -23,18 +23,18 @@ const projects = [
   {
     id: 2,
     title: 'BryantCobo.com',
-    url: 'https://github.com/TheBryantCobo/bryantcobo',
+    url: 'https://github.com/TheBryantCobo/bryantcobo-v2',
     img: bryantcoboImg,
     desc: "I created the website you're viewing now. The goal was to create a fast and simple site using only HTML, CSS, and Vue. This site was built from scratch, without a template.",
     links: [
       {
         id: 'link-2-1',
         icon: 'icon-github',
-        url: 'https://github.com/TheBryantCobo/bryantcobo',
+        url: 'https://github.com/TheBryantCobo/bryantcobo-v2',
         title: 'GitHub',
       },
     ],
-    techs: ['Vue', 'HTML/CSS'],
+    techs: ['Vue', 'HTML/CSS', 'TypeScript', 'Copilot'],
   },
   {
     id: 3,
